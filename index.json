@@ -3,17 +3,17 @@
   "latestVersion":"1.1.3-448729",
   "mapping":[
     {
-      "url":"https://github.com/555me/test01/raw/refs/heads/main/mapping/HT-1.1-113.usmap",
+      "url":"https://github.com/555me/NTE-usmap/raw/refs/heads/main/mapping/HT-1.1-113.usmap",
       "name":"HT-1.1-113.usmap",
       "versionInfo":"1.1-1.1.3"
     },
     {
-      "url":"https://github.com/555me/test01/raw/refs/heads/main/mapping/HT-1.1-110.usmap",
+      "url":"https://github.com/555me/NTE-usmap/raw/refs/heads/main/mapping/HT-1.1-110.usmap",
       "name":"HT-1.1-113.usmap",
       "versionInfo":"1.1-1.1.0"
     },
     {
-      "url":"https://github.com/555me/test01/raw/refs/heads/main/mapping/HT-1.0-106.usmap",
+      "url":"https://github.com/555me/NTE-usmap/raw/refs/heads/main/mapping/HT-1.0-106.usmap",
       "name":"HT-1.0-106.usmap",
       "versionInfo":"1.0-1.0.6"
     }
