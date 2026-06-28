@@ -1,7 +1,12 @@
 {
   "game":"HT-NTE_UE5_6",
-  "latestVersion":"1.0.8-457906",
+  "latestVersion":"1.2.1-474429",
   "mapping":[
+    {
+      "url":"https://github.com/555me/NTE-usmap/raw/refs/heads/beta/mapping/HT-1.2-121.usmap",
+      "name":"HT-1.2-121.usmap",
+      "versionInfo":"1.2-1.2.1"
+    },
     {
       "url":"https://github.com/555me/NTE-usmap/raw/refs/heads/beta/mapping/HT-1.0-108.usmap",
       "name":"HT-1.0-108.usmap",
